@@ -4,7 +4,12 @@ There are two modes that can be used:
 1. Parallel
 2. Sequential
 
-The parallel mode is 2.5 times faster than the sequential mode if 7 parallel processes are used.
+The parallel mode is 2.5 times faster than the sequential mode if 7 parallel processes are used. The speed itself also depends on the parameters, but in the table below, we fix the parameters in order to compare the sequential and parallel modes.
+|example|Sequential|parallel|
+|-------|:--------:|-------:|
+|[example1](./data/im0.png)|Sequential|55 s|
+|[example2](./data/imL.png)|Sequential|parallel|
+
 Parameters can be set at the end of [disparity.py](disparity.py)
 
 To make the resulting disparity map less heterogenous, we used the median filter
