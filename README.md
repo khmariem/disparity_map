@@ -15,5 +15,5 @@ Here are a few examples following the execution of our disparity map function of
 <img src="https://raw.githubusercontent.com/khmariem/disparity_map/main/depth_map/depth.jpg" alt="drawing" width="400"/>
 <img src="https://raw.githubusercontent.com/khmariem/disparity_map/main/depth_color_map/depth.jpg" alt="drawing" width="400"/>
 
-<img src="https://raw.githubusercontent.com/khmariem/disparity_map/main/depth_map/depth10.jpg" alt="drawing" width="400"/>
-<img src="https://raw.githubusercontent.com/khmariem/disparity_map/main/depth_color_map/depth10.jpg" alt="drawing" width="400"/>
+<img src="https://raw.githubusercontent.com/khmariem/disparity_map/main/depth_map/depth10.jpg" alt="drawing" width="300"/>
+<img src="https://raw.githubusercontent.com/khmariem/disparity_map/main/depth_color_map/depth11.jpg" alt="drawing" width="300"/>
