@@ -11,6 +11,5 @@ To make the resulting disparity map less heterogenous, we used the median filter
 also known as the filter that denoises the salt-and-pepper noise.
 
 Here are a few examples following the execution of our disparity map function of samples from [data](./data):
-
 <img src="https://raw.githubusercontent.com/khmariem/disparity_map/main/depth_map/depth.jpg" alt="drawing" width="400"/>
 <img src="https://raw.githubusercontent.com/khmariem/disparity_map/main/depth_color_map/depth.jpg" alt="drawing" width="400"/>
