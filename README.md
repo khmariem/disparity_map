@@ -5,7 +5,7 @@ There are two modes that can be used:
 2. Sequential
 
 The parallel mode is 2.5 times faster than the sequential mode if 7 parallel processes are used.
-Paramters can be set at the end of [disparity.py](disparity.py)
+Parameters can be set at the end of [disparity.py](disparity.py)
 
 To make the resulting disparity map less heterogenous, we used the median filter
 also known as the filter that denoises the salt-and-pepper noise.
