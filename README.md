@@ -4,7 +4,7 @@ There are two modes that can be used:
 1. Parallel
 2. Sequential
 
-The parallel mode is 2.5 times faster than the sequential mode if 7 parallel processes are used. The speed itself also depends on the parameters, but in the table below, we fix the parameters in order to compare the sequential and parallel modes.
+The parallel mode is 2.5 times faster than the sequential mode when 7 parallel processes are used. The speed itself also depends on the parameters, but in the table below, we fix the parameters in order to compare the sequential and parallel modes.
 |Example|Sequential|Parallel|
 |-------|:--------:|-------:|
 |[example1](./data/im0.png)|134 s|55 s|
